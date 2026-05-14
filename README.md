@@ -10,9 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:og.svilchis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/og.svilchis%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-DA/BI%20Analyst-16a34a?style=flat" alt="Open to work"/>
 </p>
 
 ---
@@ -25,9 +24,9 @@ My work sits at the intersection of **commercial strategy, data analysis, and pr
 
 - 📊 Advanced in Excel · Power Pivot · Power Query · DAX
 - 🗄️ Working with T-SQL for business reporting and KPI queries
-- 📈 Building toward Power BI and Python EDA proficiency
-- 🎓 B.A. International Business & Trade — EBC (in progress)
-- 📍 Based in Mexico · Open to remote LATAM roles
+- 📈 Building toward Power BI and Python proficiency
+- 🎓 B.A. International Business & Trade — EBC
+- 📍 Based in Mexico
 
 ---
 
@@ -54,7 +53,7 @@ End-to-end commercial intelligence analysis for a US retail company. Covers sale
 
 ---
 
-> 🔧 **More projects coming soon** — including an anonymized BI system case study from real distribution operations (Power Pivot · DAX · 8-table data model · 400+ client tracking), a commercial credit risk model, and a Python EDA project.
+> 🔧 **More projects coming soon** — currently expanding my portfolio with new dataset analyses across commercial and operational domains.
 
 ---
 
@@ -70,22 +69,6 @@ End-to-end commercial intelligence analysis for a US retail company. Covers sale
 
 ---
 
-## Currently working on
-
-- [ ] Documenting the Grupo Zegues BI system as an anonymized case study
-- [ ] Building a standalone Power BI dashboard with AdventureWorks data
-- [ ] Python EDA project — retail commercial dataset
-- [ ] DAX measure reference library (public repository)
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogsvilchis&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogsvilchis&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
-
----
-
-<p align="center">
-  <sub>Always open to connecting — feel free to reach out on <a href="https://linkedin.com/in/orlando-gabriel-sanchez-vilchis">LinkedIn</a> or via <a href="mailto:og.svilchis@gmail.com">email</a></sub>
+  <sub>Always open to connecting — feel free to reach out on <a href="https://linkedin.com/in/orlando-gabriel-sanchez-vilchis">LinkedIn</a> or via <a href="mailto:og.svilchis@gmail.com">og.svilchis@gmail.com</a></sub>
 </p>
