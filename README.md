@@ -22,7 +22,7 @@ I specialize in building **end-to-end business intelligence systems** for commer
 
 My work sits at the intersection of **commercial strategy, data analysis, and process optimization**. I serve as a bridge between operations and decision-makers — ensuring data is not only collected but acted upon.
 
-- 📊 Advanced in Excel · Power Pivot · Power Query · DAX
+- 📊 Advanced in Excel · Power Pivot · Power Query 
 - 🗄️ Working with T-SQL for business reporting and KPI queries
 - 📈 Building toward Power BI and Python proficiency
 - 🎓 B.A. International Business & Trade — EBC
